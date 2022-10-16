@@ -8,6 +8,7 @@ This is a stereo digitizer/sampler originally designed by Sampedenawa, featured 
 
 ## Revision Info
 Rev.1: Updated C1, C2, C3, C4 for better frequency response per Sapedenawa's recommendations. Does not impact PCB design. BOM change only.
+\
 Rev.0: Initial rev, per the magazine schematic.
 
 ## Other

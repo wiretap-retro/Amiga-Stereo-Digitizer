@@ -10,4 +10,4 @@ This is a stereo digitizer/sampler originally designed by Sampedenawa, featured 
 For Amiga 1000 support, please use the appropriate parallel port adapter to correct the pinout.
 \
 \
-Ooen hardware project, with permission from Sampedenawa.
+Open hardware project, with permission from Sampedenawa.

@@ -14,6 +14,4 @@ Rev.0: Initial rev, per the magazine schematic.
 ## Other
 * For Amiga 1000 support, please use the appropriate parallel port adapter to correct the pinout.
 * The gain adjustment potentiometers are multi-turn. Once you set your VU levels with no clipping on the parent audio device, adjust the gain potentiometers to an acceptable level, using the Amiga software/audio. Once set, they should not need to be adjusted again, unless switching to another parent audio device.  
-\
-\
-Open hardware project, with permission from Sampedenawa.
+* Open hardware project, with permission from Sampedenawa.
